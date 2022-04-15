@@ -1,1 +1,21 @@
-Hello! My name is Kate! I am 34. I live in the city of Zhlobin. It is not a large city in the Gomel region in Belarus. I graduated from a metallurgical technical school, by education an electronics technician. For about eight years she worked at the Belarusian Metallurgical Plant. I liked my work, I controlled the quality of the products. Later I took Andersen's "Software Testing" courses. I was very interested. I continued to study various information: I read a lot of literature, watched video tutorials, studied tools.
+Hello! My name’s Kate! I’m 34. I'm from Zhlobin, Belarus.
+
+ I graduated from the metallurgical college.By education, electronics technician.I worked in the Belarusian Metallurgical Plant for about  eight years .This is one of the largest enterprises in Belarus. I'm responsible for the quality of products, control all stages of the production process, control the chemical and mechanical properties of the metal. It is very dynamic, interesting, requires a lot of attention, and perseverance. At work I use a lot of documentation. These are gosts, standards, specifications, technological maps and much more. I control the process of making seamless steel pipes.
+There is something in my work that I don't like. These are night shifts, harmfulness at the plant. There is no career growth and wages. 
+
+A year ago I took an online course “software testing” from Andersen. This was my first experience with the profession of a tester. At first everything was incomprehensible but it did not stop me. I read Savin, Kulikov, Olga Nazina’s blog, and watched Artem Rusov’s video tutorials.
+
+All this  interested me very much. I like to study, learn more. I want to develop in the profession of a tester.In order to develop my hard skills, in the summer I took the course of Vadim Ksendzov. It was difficult, but I coped with everything.
+On the course, I learned how to work with a large number of tools: android studio, charles, fidler, jamer, postman, adb, browser devtools. There was also work with documentation: writing checklists, test cases, bug reports.There was practice on rail projects: smoke tests and localization testing of the site currency.com
+
+I spent about two or three months looking for a job. January 24 was my first working day at Clevertechtechnology. I was so happy.  I worked on the mobile application Alfa Bank Ukraine "Sense".  The project was large, had different functionality, new features were constantly added. Application developed for android and ios operating system. There were about thirty people in our team.There was constant communication with in the team. Everyone helped each other. There was really a lot of work on the project. Everyone worked on their functionality. All documentation was in Confluence. We used the bug tracking system of the Jira. Layouts were developed in Figma.
+	
+	What did I do? I wrote test cases for my functionality in a Qase, made test suites, and test runs. Prepared bug reports in Jira and Trello. 
+I intercepted traffic, performed traffic substitution, worked with logs using charles, fidler, android studio. I also worked with postman and wrote small autotests: status code, checking the jason structure, getting values from an array and comparing them.
+In this short time, I learned a lot of information and gained a lot of experience.Now I continue to study: I take a Python course, study English and read a lot of literature.
+
+What are my soft skills? I am responsible, attentive, diligent, hardworking, sociable, and stress-resistant.
+
+My hobbies are swimming and watercolor painting. In my free time, I spend time with my family and my children. We walk in the park, go to the cinema or cook delicious food at home.
+
+
